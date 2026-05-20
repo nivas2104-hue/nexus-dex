@@ -1,16 +1,120 @@
-# React + Vite
+# NEXUS DEX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern decentralized exchange (DEX) built on the SecureChain AI (SCAI) Mainnet using Solidity, React.js, Hardhat, and Ethers.js.
 
-Currently, two official plugins are available:
+Nexus DEX enables users to:
+- Swap tokens
+- Add liquidity
+- Connect MetaMask wallets
+- Interact with smart contracts on-chain
+- Monitor live portfolio analytics
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 🚀 Live Deployment
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend:
+https://nexus-dex-sigma.vercel.app
 
-## Expanding the ESLint configuration
+GitHub Repository:
+https://github.com/nivas2104-hue/nexus-dex
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 🧠 Features
+
+- SecureChain AI (SCAI) Mainnet Integration
+- ERC20 Token Smart Contract
+- Liquidity Pool System
+- Token Swapping
+- Wallet Connection (MetaMask)
+- Live Dashboard Analytics
+- Responsive Web3 UI
+- Real On-Chain Transactions
+- Hardhat Smart Contract Testing
+- Vercel Deployment
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Ethers.js
+
+## Blockchain
+- Solidity
+- Hardhat
+- OpenZeppelin
+- SecureChain AI Mainnet
+
+## Deployment
+- Vercel
+
+---
+
+# 📜 Smart Contracts
+
+## NXS Token Contract
+0xb636D73a75c5617FeCF034F028CbC5c597107586
+
+## NexusSwap Contract
+0xcbCC2968592A9283168B80ECEA311962b7101fFC
+
+---
+
+# 📸 Screenshots
+
+## Homepage
+
+![Homepage](./screenshots/home.png)
+
+---
+
+## Swap Interface
+
+![Swap](./screenshots/swap.png)
+
+---
+
+## Liquidity Management
+
+![Liquidity](./screenshots/liquidity.png)
+
+---
+
+## Dashboard Analytics
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
+# 🔒 Security Considerations
+
+This project implements several security-focused practices:
+
+- OpenZeppelin ERC20 standards
+- Solidity ^0.8 overflow protection
+- Wallet-based transaction approvals
+- ERC20 allowance handling
+- Reentrancy-aware architecture
+- Secure MetaMask transaction signing
+
+---
+
+# 🧪 Smart Contract Testing
+
+Hardhat test suite includes:
+
+- Token deployment testing
+- ERC20 transfer testing
+- Liquidity addition testing
+- Swap transaction testing
+
+Run tests:
+
+```bash
+npx hardhat test
