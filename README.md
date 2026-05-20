@@ -5,13 +5,14 @@
 ```
 ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗    ██████╗ ███████╗██╗  ██╗
 ████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝    ██╔══██╗██╔════╝╚██╗██╔╝
-██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗    ██║  ██║█████╗   ╚███╔╝ 
-██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║    ██║  ██║██╔══╝   ██╔██╗ 
+██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗    ██║  ██║█████╗   ╚███╔╝
+██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║    ██║  ██║██╔══╝   ██╔██╗
 ██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║    ██████╔╝███████╗██╔╝ ██╗
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
 ── 𝙽𝙴𝚇𝚃-𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙸𝙾𝙽 𝙳𝙴𝚇 · 𝚂𝙴𝙲𝚄𝚁𝙴𝙲𝙷𝙰𝙸𝙽 𝙰𝙸 𝙼𝙰𝙸𝙽𝙽𝙴𝚃 ──
+
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Nexus%20DEX-8b5cf6?style=for-the-badge&labelColor=0f0f1a)](https://nexus-dex-sigma.vercel.app)&nbsp;&nbsp;
@@ -66,7 +67,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text id="nxt7"
+```text
  ░▒▓  REAL-TIME TOKEN SWAPPING  ▓▒░
 ```
 
@@ -74,7 +75,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text id="nxt8"
+```text
  ░▒▓  DECENTRALIZED LIQUIDITY SYSTEM  ▓▒░
 ```
 
@@ -82,7 +83,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text id="nxt9"
+```text
  ░▒▓  WEB3 WALLET CONNECTIVITY  ▓▒░
 ```
 
@@ -96,7 +97,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text id="nxt10"
+```text
  ░▒▓  CINEMATIC DEFI INTERFACE  ▓▒░
 ```
 
@@ -110,7 +111,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text id="nxt11"
+```text
  ░▒▓  LIVE ANALYTICS DASHBOARD  ▓▒░
 ```
 
@@ -124,11 +125,15 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text id="nxt12"
+```text
  ░▒▓  MAINNET DEPLOYMENT  ▓▒░
 ```
 
 > Fully deployed and operational on the **SecureChain AI Mainnet** with production frontend hosting through Vercel.
+
+<br/>
+
+---
 
 ```
 ╔══════════════════════════════════════╗
@@ -159,7 +164,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <div align="center">
 
-## 🪙 NXS TOKEN CONTRACT
+## NXS TOKEN CONTRACT
 
 Core ERC20 utility token powering the Nexus ecosystem.
 
@@ -179,7 +184,7 @@ Token Symbol  : NXS
 
 <br/>
 
-## 🔁 NEXUSSWAP CONTRACT
+## NEXUSSWAP CONTRACT
 
 Liquidity and token swap protocol contract enabling decentralized exchange functionality.
 
@@ -201,7 +206,7 @@ Features      : Swapping · Liquidity · Pool Interaction
 
 <div align="center">
 
-### ⚡ DEPLOYMENT STATUS
+### DEPLOYMENT STATUS
 
 | CONTRACT | STATUS |
 |:---|:---:|
@@ -212,6 +217,12 @@ Features      : Swapping · Liquidity · Pool Interaction
 | Mainnet Transactions | `CONFIRMED` |
 
 </div>
+
+<br/>
+
+---
+
+```
 ╔══════════════════════════════════════╗
 ║            // TECH STACK             ║
 ╚══════════════════════════════════════╝
@@ -313,7 +324,7 @@ Features      : Swapping · Liquidity · Pool Interaction
 
 ---
 
-```text id="sec5"
+```text
  ░▒▓  SECURITY NOTES  ▓▒░
 ```
 
@@ -325,7 +336,7 @@ Features      : Swapping · Liquidity · Pool Interaction
 
 <br/>
 
-```text id="sec6"
+```text
  ░▒▓  TESTING STATUS  ▓▒░
 ```
 
@@ -336,6 +347,12 @@ Features      : Swapping · Liquidity · Pool Interaction
 + Swap Transactions Confirmed
 + Wallet Connectivity Verified
 + Mainnet Deployment Successful
+```
+
+<br/>
+
+---
+
 ```
 ╔══════════════════════════════════════╗
 ║       // SMART CONTRACT TESTING      ║
@@ -450,7 +467,7 @@ PROJECT STATUS:
 
 ---
 
-```text id="hl6"
+```text
  ░▒▓  FINAL DEPLOYMENT RESULT  ▓▒░
 ```
 
@@ -460,9 +477,15 @@ PROJECT STATUS:
 
 <div align="center">
 
-#  ─────── LIVE ON SECURECHAIN AI MAINNET  ───────
+# ─────── LIVE ON SECURECHAIN AI MAINNET ───────
 
 </div>
+
+<br/>
+
+---
+
+```
 ╔══════════════════════════════════════╗
 ║              // DEVELOPER            ║
 ╚══════════════════════════════════════╝
@@ -472,9 +495,9 @@ PROJECT STATUS:
 
 <div align="center">
 
-#  Nivas
+# Nivas
 
-### Full-Stack Web3 Developer  
+### Full-Stack Web3 Developer
 ### Blockchain · React · Solidity · DeFi
 
 <br/>
@@ -510,11 +533,10 @@ PROJECT STATUS:
 
 <br/>
 
-#  ───────  BUILT ON SECURECHAIN AI MAINNET  ───────
+# ─────── BUILT ON SECURECHAIN AI MAINNET ───────
 
 <br/>
 
 <img src="./screenshots/homepage1.png" width="90%"/>
 
-</div>
 </div>
