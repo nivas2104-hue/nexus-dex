@@ -480,7 +480,7 @@ PROJECT STATUS:
 
 #  Nivas
 
-### Full-Stack Web3 Developer  
+ 
 ### Blockchain · React · Solidity · DeFi
 
 <br/>
