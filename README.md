@@ -36,16 +36,23 @@
 ╚══════════════════════════════════════╝
 ```
 
-> **Nexus DEX** is a fully functional decentralized exchange deployed on the **SecureChain AI (SCAI) Mainnet** — enabling real on-chain token swaps, liquidity provision, and smart contract interaction through a modern cinematic Web3 interface.
+> **Nexus DEX** combines modern decentralized finance infrastructure with cinematic Web3 user experience design — enabling real-time token swaps, liquidity management, and blockchain interaction directly on the **SecureChain AI Mainnet**.
 
-Built as a complete full-stack blockchain application using:
+The project architecture integrates smart contracts, frontend state management, wallet connectivity, and production deployment into a fully functional decentralized application stack.
 
-| Layer | Technology |
-|---|---|
-| `FRONTEND` | React.js + Vite + Tailwind CSS + Framer Motion |
-| `BLOCKCHAIN` | Solidity + Hardhat + OpenZeppelin |
-| `WEB3` | Ethers.js + MetaMask |
-| `DEPLOYMENT` | Vercel + GitHub |
+Developed as a complete decentralized finance application powered by Solidity smart contracts, Web3 integration, and a modern React-based frontend:
+
+<div align="center">
+
+| SYSTEM LAYER | STACK |
+|:---:|:---|
+| `FRONTEND ENGINE` | React.js · Vite · Tailwind CSS · Framer Motion |
+| `SMART CONTRACTS` | Solidity · Hardhat · OpenZeppelin |
+| `WEB3 CONNECTIVITY` | Ethers.js · MetaMask |
+| `DEPLOYMENT PIPELINE` | GitHub · Vercel |
+| `BLOCKCHAIN NETWORK` | SecureChain AI Mainnet |
+
+</div>
 
 <br/>
 
@@ -59,42 +66,69 @@ Built as a complete full-stack blockchain application using:
 
 <br/>
 
+```text id="nxt7"
+ ░▒▓  REAL-TIME TOKEN SWAPPING  ▓▒░
 ```
- ░▒▓  TOKEN SWAPPING  ▓▒░
-```
-> Swap **SCAI ↔ NXS** tokens directly through MetaMask with live blockchain transaction execution.
+
+> Execute live on-chain token swaps between **SCAI** and **NXS** directly through MetaMask with blockchain-confirmed transaction execution.
 
 <br/>
 
+```text id="nxt8"
+ ░▒▓  DECENTRALIZED LIQUIDITY SYSTEM  ▓▒░
 ```
- ░▒▓  LIQUIDITY POOL SYSTEM  ▓▒░
-```
-> Add liquidity into the Nexus liquidity pool and interact with real smart contract liquidity functions on-chain.
+
+> Provide liquidity into the Nexus liquidity pool using real smart contract interactions while simulating modern DeFi protocol mechanics.
 
 <br/>
 
+```text id="nxt9"
+ ░▒▓  WEB3 WALLET CONNECTIVITY  ▓▒░
 ```
- ░▒▓  WALLET INTEGRATION  ▓▒░
-```
-> - MetaMask Connection
-> - Wallet-based Authentication
-> - Real Transaction Signing
-> - Live Blockchain Interaction
+
+> Integrated wallet interaction layer enabling:
+>
+> - MetaMask Authentication
+> - Secure Transaction Signing
+> - ERC20 Approval Handling
+> - Real Blockchain Communication
+> - Live Wallet State Detection
 
 <br/>
 
+```text id="nxt10"
+ ░▒▓  CINEMATIC DEFI INTERFACE  ▓▒░
 ```
- ░▒▓  LIVE DASHBOARD ANALYTICS  ▓▒░
-```
-> - Portfolio tracking
-> - Liquidity insights
-> - Protocol health metrics
-> - Transaction history
-> - Live market visualization
+
+> Designed with immersive Web3 aesthetics using:
+>
+> - Framer Motion Animations
+> - Dynamic Market Visualizations
+> - Responsive Trading Layouts
+> - Glassmorphism UI System
+> - Real-Time State Rendering
 
 <br/>
 
----
+```text id="nxt11"
+ ░▒▓  LIVE ANALYTICS DASHBOARD  ▓▒░
+```
+
+> Interactive dashboard system displaying:
+>
+> - Portfolio Tracking
+> - Liquidity Metrics
+> - Protocol Health Indicators
+> - Transaction Activity
+> - Market Performance Data
+
+<br/>
+
+```text id="nxt12"
+ ░▒▓  MAINNET DEPLOYMENT  ▓▒░
+```
+
+> Fully deployed and operational on the **SecureChain AI Mainnet** with production frontend hosting through Vercel.
 
 ```
 ╔══════════════════════════════════════╗
@@ -121,15 +155,41 @@ Built as a complete full-stack blockchain application using:
 ╚══════════════════════════════════════╝
 ```
 
+<br/>
+
 <div align="center">
 
+## 🪙 NXS TOKEN CONTRACT
+
+Core ERC20 utility token powering the Nexus ecosystem.
+
+```solidity
+Contract Type : ERC20 Token
+Network       : SecureChain AI Mainnet
+Token Symbol  : NXS
 ```
-[ NXS TOKEN CONTRACT ]
+
+```solidity
 0xb636D73a75c5617FeCF034F028CbC5c597107586
 ```
 
+<br/>
+
+---
+
+<br/>
+
+## 🔁 NEXUSSWAP CONTRACT
+
+Liquidity and token swap protocol contract enabling decentralized exchange functionality.
+
+```solidity
+Contract Type : Liquidity + Swap Protocol
+Network       : SecureChain AI Mainnet
+Features      : Swapping · Liquidity · Pool Interaction
 ```
-[ NEXUSSWAP CONTRACT ]
+
+```solidity
 0xcbCC2968592A9283168B80ECEA311962b7101fFC
 ```
 
@@ -139,7 +199,19 @@ Built as a complete full-stack blockchain application using:
 
 ---
 
-```
+<div align="center">
+
+### ⚡ DEPLOYMENT STATUS
+
+| CONTRACT | STATUS |
+|:---|:---:|
+| NXS Token | `LIVE` |
+| NexusSwap Protocol | `LIVE` |
+| Frontend Integration | `CONNECTED` |
+| Wallet Interaction | `ACTIVE` |
+| Mainnet Transactions | `CONFIRMED` |
+
+</div>
 ╔══════════════════════════════════════╗
 ║            // TECH STACK             ║
 ╚══════════════════════════════════════╝
@@ -217,21 +289,53 @@ Built as a complete full-stack blockchain application using:
 ╚══════════════════════════════════════╝
 ```
 
-The project implements multiple security-focused blockchain practices:
+<br/>
 
-| Practice | Status |
-|---|:---:|
-| OpenZeppelin ERC20 Standards | `[PASS]` |
-| Solidity ^0.8 Overflow Protection | `[PASS]` |
-| Secure ERC20 Allowance Handling | `[PASS]` |
-| MetaMask Transaction Signing | `[PASS]` |
-| Wallet-based Authorization | `[PASS]` |
-| Reentrancy-aware Smart Contract Architecture | `[PASS]` |
+> Nexus DEX follows multiple defensive smart contract and transaction-handling practices commonly used in modern decentralized application development.
+
+<br/>
+
+<div align="center">
+
+| SECURITY LAYER | IMPLEMENTATION |
+|:---|:---|
+| `ERC20 STANDARDIZATION` | Built using OpenZeppelin ERC20 implementation |
+| `OVERFLOW PROTECTION` | Solidity ^0.8 built-in arithmetic safety |
+| `APPROVAL SECURITY` | Explicit ERC20 allowance handling before liquidity interaction |
+| `WALLET AUTHORIZATION` | Transactions signed securely through MetaMask |
+| `REENTRANCY-AWARE DESIGN` | External token interactions handled carefully within swap logic |
+| `MAINNET VALIDATION` | Successfully tested with real SCAI mainnet transactions |
+| `ACCESS CONTROL` | Smart contract ownership restrictions for protocol-level operations |
+
+</div>
 
 <br/>
 
 ---
 
+```text id="sec5"
+ ░▒▓  SECURITY NOTES  ▓▒░
+```
+
+> - Private keys are never exposed in frontend architecture
+> - Blockchain transactions require explicit wallet approval
+> - Smart contract interactions are executed on-chain
+> - ERC20 token approvals are validated before transfers
+> - Liquidity operations require authenticated wallet signatures
+
+<br/>
+
+```text id="sec6"
+ ░▒▓  TESTING STATUS  ▓▒░
+```
+
+```diff
++ Token Deployment Tested
++ ERC20 Transfers Validated
++ Liquidity Functions Executed
++ Swap Transactions Confirmed
++ Wallet Connectivity Verified
++ Mainnet Deployment Successful
 ```
 ╔══════════════════════════════════════╗
 ║       // SMART CONTRACT TESTING      ║
@@ -303,13 +407,20 @@ npx hardhat test
 ╚══════════════════════════════════════╝
 ```
 
+<br/>
+
 <div align="center">
 
-```
-[+] Fully Functional Web3 DApp       [+] Real Blockchain Transactions
-[+] Live Mainnet Deployment          [+] Production Frontend Hosting
-[+] Smart Contract Testing           [+] Liquidity Pool Integration
-[+] MetaMask Wallet Support          [+] Responsive Cinematic UI
+```yaml
+PROJECT STATUS:
+  FRONTEND:            PRODUCTION READY
+  SMART CONTRACTS:     DEPLOYED ON MAINNET
+  WALLET CONNECTIVITY: ACTIVE
+  SWAP SYSTEM:         OPERATIONAL
+  LIQUIDITY SYSTEM:    FUNCTIONAL
+  DASHBOARD:           LIVE
+  TESTING:             COMPLETED
+  DEPLOYMENT:          SUCCESSFUL
 ```
 
 </div>
@@ -318,24 +429,92 @@ npx hardhat test
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║              // DEVELOPER            ║
-╚══════════════════════════════════════╝
-```
-
 <div align="center">
 
-### Nivas
+| CATEGORY | STATUS |
+|:---|:---:|
+| Real Blockchain Transactions | ✅ |
+| SecureChain AI Mainnet Deployment | ✅ |
+| Smart Contract Integration | ✅ |
+| ERC20 Token System | ✅ |
+| Liquidity Pool Mechanics | ✅ |
+| MetaMask Wallet Support | ✅ |
+| Responsive Web3 Interface | ✅ |
+| Vercel Production Hosting | ✅ |
+| GitHub CI/CD Workflow | ✅ |
+| Hardhat Smart Contract Testing | ✅ |
 
-*Built for the **EtherAuthority Web3 Internship Program 2026***
+</div>
 
 <br/>
 
 ---
 
-```
-⚡ ─────────────── BUILT ON SECURECHAIN AI MAINNET ─────────────── ⚡
+```text id="hl6"
+ ░▒▓  FINAL DEPLOYMENT RESULT  ▓▒░
 ```
 
+> Nexus DEX successfully demonstrates the architecture and workflow of a modern decentralized exchange — integrating blockchain infrastructure, smart contract execution, wallet connectivity, and cinematic frontend interaction into a fully deployed Web3 application.
+
+<br/>
+
+<div align="center">
+
+#  ─────── LIVE ON SECURECHAIN AI MAINNET  ───────
+
+</div>
+╔══════════════════════════════════════╗
+║              // DEVELOPER            ║
+╚══════════════════════════════════════╝
+```
+
+<br/>
+
+<div align="center">
+
+#  Nivas
+
+### Full-Stack Web3 Developer  
+### Blockchain · React · Solidity · DeFi
+
+<br/>
+
+> Passionate about building immersive decentralized applications combining blockchain infrastructure, modern frontend engineering, and cinematic Web3 experiences.
+
+<br/>
+
+---
+
+<br/>
+
+| PROFILE | LINK |
+|:---|:---|
+| GitHub | https://github.com/nivas2104-hue |
+| Live Deployment | https://nexus-dex-sigma.vercel.app |
+
+<br/>
+
+---
+
+<br/>
+
+```diff
++ Built for EtherAuthority Web3 Internship Program 2026
++ Developed using Solidity, React.js, Hardhat & Ethers.js
++ Deployed on SecureChain AI Mainnet
+```
+
+<br/>
+
+---
+
+<br/>
+
+#  ───────  BUILT ON SECURECHAIN AI MAINNET  ───────
+
+<br/>
+
+<img src="./screenshots/homepage1.png" width="90%"/>
+
+</div>
 </div>
