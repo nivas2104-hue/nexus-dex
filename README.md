@@ -12,7 +12,6 @@
 ```
 
 ── 𝙽𝙴𝚇𝚃-𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙸𝙾𝙽 𝙳𝙴𝚇 · 𝚂𝙴𝙲𝚄𝚁𝙴𝙲𝙷𝙰𝙸𝙽 𝙰𝙸 𝙼𝙰𝙸𝙽𝙽𝙴𝚃 ──
-
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Nexus%20DEX-8b5cf6?style=for-the-badge&labelColor=0f0f1a)](https://nexus-dex-sigma.vercel.app)&nbsp;&nbsp;
@@ -67,7 +66,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text
+```text id="nxt7"
  ░▒▓  REAL-TIME TOKEN SWAPPING  ▓▒░
 ```
 
@@ -75,7 +74,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text
+```text id="nxt8"
  ░▒▓  DECENTRALIZED LIQUIDITY SYSTEM  ▓▒░
 ```
 
@@ -83,7 +82,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text
+```text id="nxt9"
  ░▒▓  WEB3 WALLET CONNECTIVITY  ▓▒░
 ```
 
@@ -97,7 +96,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text
+```text id="nxt10"
  ░▒▓  CINEMATIC DEFI INTERFACE  ▓▒░
 ```
 
@@ -111,7 +110,7 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text
+```text id="nxt11"
  ░▒▓  LIVE ANALYTICS DASHBOARD  ▓▒░
 ```
 
@@ -125,15 +124,11 @@ Developed as a complete decentralized finance application powered by Solidity sm
 
 <br/>
 
-```text
+```text id="nxt12"
  ░▒▓  MAINNET DEPLOYMENT  ▓▒░
 ```
 
 > Fully deployed and operational on the **SecureChain AI Mainnet** with production frontend hosting through Vercel.
-
-<br/>
-
----
 
 ```
 ╔══════════════════════════════════════╗
@@ -217,10 +212,6 @@ Features      : Swapping · Liquidity · Pool Interaction
 | Mainnet Transactions | `CONFIRMED` |
 
 </div>
-
-<br/>
-
----
 
 ```
 ╔══════════════════════════════════════╗
@@ -324,7 +315,7 @@ Features      : Swapping · Liquidity · Pool Interaction
 
 ---
 
-```text
+```text id="sec5"
  ░▒▓  SECURITY NOTES  ▓▒░
 ```
 
@@ -336,7 +327,7 @@ Features      : Swapping · Liquidity · Pool Interaction
 
 <br/>
 
-```text
+```text id="sec6"
  ░▒▓  TESTING STATUS  ▓▒░
 ```
 
@@ -348,10 +339,6 @@ Features      : Swapping · Liquidity · Pool Interaction
 + Wallet Connectivity Verified
 + Mainnet Deployment Successful
 ```
-
-<br/>
-
----
 
 ```
 ╔══════════════════════════════════════╗
@@ -467,7 +454,7 @@ PROJECT STATUS:
 
 ---
 
-```text
+```text id="hl6"
  ░▒▓  FINAL DEPLOYMENT RESULT  ▓▒░
 ```
 
@@ -477,13 +464,9 @@ PROJECT STATUS:
 
 <div align="center">
 
-# ─────── LIVE ON SECURECHAIN AI MAINNET ───────
+#  ─────── LIVE ON SECURECHAIN AI MAINNET  ───────
 
 </div>
-
-<br/>
-
----
 
 ```
 ╔══════════════════════════════════════╗
@@ -495,9 +478,9 @@ PROJECT STATUS:
 
 <div align="center">
 
-# Nivas
+#  Nivas
 
-### Full-Stack Web3 Developer
+### Full-Stack Web3 Developer  
 ### Blockchain · React · Solidity · DeFi
 
 <br/>
@@ -533,7 +516,7 @@ PROJECT STATUS:
 
 <br/>
 
-# ─────── BUILT ON SECURECHAIN AI MAINNET ───────
+#  ───────  BUILT ON SECURECHAIN AI MAINNET  ───────
 
 <br/>
 
