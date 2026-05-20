@@ -165,8 +165,8 @@ Core ERC20 utility token powering the Nexus ecosystem.
 
 ```solidity
 Contract Type : ERC20 Token
-Network       : SecureChain AI Mainnet
-Token Symbol  : NXS
+Network: SecureChain AI Mainnet
+Token Symbol : NXS
 ```
 
 ```solidity
