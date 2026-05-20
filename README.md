@@ -1,272 +1,280 @@
 <div align="center">
 
-# ⚡ NEXUS DEX
+<br/>
 
-### Next-Generation Decentralized Exchange Built on SecureChain AI Mainnet
+```
+███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗    ██████╗ ███████╗██╗  ██╗
+████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝    ██╔══██╗██╔════╝╚██╗██╔╝
+██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗    ██║  ██║█████╗   ╚███╔╝ 
+██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║    ██║  ██║██╔══╝   ██╔██╗ 
+██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║    ██████╔╝███████╗██╔╝ ██╗
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-<img src="./screenshots/homepage1.png" alt="Nexus DEX Banner"/>
+### ⚡ Next-Generation Decentralized Exchange · SecureChain AI Mainnet ⚡
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Nexus_DEX-8b5cf6?style=for-the-badge)](https://nexus-dex-sigma.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Nexus%20DEX-8b5cf6?style=for-the-badge&labelColor=0f0f1a)](https://nexus-dex-sigma.vercel.app)&nbsp;&nbsp;
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.28-64748b?style=for-the-badge&logo=solidity&labelColor=0f0f1a)](https://soliditylang.org/)&nbsp;&nbsp;
+[![React](https://img.shields.io/badge/React-Frontend-0ea5e9?style=for-the-badge&logo=react&labelColor=0f0f1a)](https://react.dev/)&nbsp;&nbsp;
+[![Hardhat](https://img.shields.io/badge/Hardhat-Web3-facc15?style=for-the-badge&labelColor=0f0f1a)](https://hardhat.org/)&nbsp;&nbsp;
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-ffffff?style=for-the-badge&logo=vercel&labelColor=0f0f1a)](https://vercel.com/)
 
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.28-1f2937?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
+<br/>
 
-[![React](https://img.shields.io/badge/React-Frontend-0ea5e9?style=for-the-badge&logo=react)](https://react.dev/)
+---
 
-[![Hardhat](https://img.shields.io/badge/Hardhat-Web3-facc15?style=for-the-badge)](https://hardhat.org/)
+<img src="./screenshots/homepage1.png" alt="Nexus DEX Banner" width="90%"/>
 
-[![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+<br/><br/>
 
 </div>
 
----
+## 🌌 &nbsp;Overview
 
-# 🌌 Overview
+> **Nexus DEX** is a fully functional decentralized exchange deployed on the **SecureChain AI (SCAI) Mainnet** — enabling real on-chain token swaps, liquidity provision, and smart contract interaction through a modern cinematic Web3 interface.
 
-Nexus DEX is a fully functional decentralized exchange (DEX) deployed on the **SecureChain AI (SCAI) Mainnet**, enabling users to perform real on-chain token swaps, provide liquidity, and interact with smart contracts through a modern cinematic Web3 interface.
+Built as a complete full-stack blockchain application using:
 
-This project was built as a complete full-stack blockchain application using:
-
-- Solidity Smart Contracts
-- React.js Frontend
-- Hardhat Development Environment
-- Ethers.js Web3 Integration
-- Vercel Production Deployment
-
----
-
-# ✨ Core Features
-
-## 🔄 Token Swapping
-Users can swap SCAI ↔ NXS tokens directly through MetaMask with live blockchain transaction execution.
-
----
-
-## 💧 Liquidity Pool System
-Users can add liquidity into the Nexus liquidity pool and interact with real smart contract liquidity functions on-chain.
-
----
-
-## 🦊 Wallet Integration
-- MetaMask Connection
-- Wallet-based Authentication
-- Real Transaction Signing
-- Live Blockchain Interaction
-
----
-
-## 📊 Live Dashboard Analytics
-The dashboard provides:
-- Portfolio tracking
-- Liquidity insights
-- Protocol health metrics
-- Transaction history
-- Live market visualization
-
----
-
-# 🚀 Live Deployment
-
-## 🌐 Frontend
-https://nexus-dex-sigma.vercel.app
-
----
-
-## 📂 GitHub Repository
-https://github.com/nivas2104-hue/nexus-dex
-
----
-
-# 🧠 Smart Contracts
-
-## 🪙 NXS Token Contract
-
-```solidity
-0xb636D73a75c5617FeCF034F028CbC5c597107586
-```
-
----
-
-## 🔁 NexusSwap Contract
-
-```solidity
-0xcbCC2968592A9283168B80ECEA311962b7101fFC
-```
-
----
-
-# 🛠️ Tech Stack
-
-<table>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Blockchain</b></td>
-<td align="center"><b>Deployment</b></td>
-</tr>
-
-<tr>
-<td>
-
-- React.js
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Ethers.js
-
-</td>
-
-<td>
-
-- Solidity
-- Hardhat
-- OpenZeppelin
-- SecureChain AI Mainnet
-
-</td>
-
-<td>
-
-- Vercel
-- GitHub
-
-</td>
-</tr>
-</table>
-
----
-
-# 📸 Application Screenshots
-
-# 🏠 Homepage
-
-<img src="./screenshots/homepage1.png"/>
-
-<br/>
-
-<img src="./screenshots/homepage2.png"/>
-
----
-
-# 🔄 Swap Interface
-
-<img src="./screenshots/swap.png"/>
-
----
-
-# 💧 Liquidity Management
-
-<img src="./screenshots/liquidity.png"/>
-
----
-
-# 📊 Dashboard Analytics
-
-<img src="./screenshots/dashboard1.png"/>
-
-<br/>
-
-<img src="./screenshots/dashboard2.png"/>
-
----
-
-# 🔒 Security Considerations
-
-The project implements multiple security-focused blockchain practices:
-
-- ✅ OpenZeppelin ERC20 Standards
-- ✅ Solidity ^0.8 Overflow Protection
-- ✅ Secure ERC20 Allowance Handling
-- ✅ MetaMask Transaction Signing
-- ✅ Wallet-based Authorization
-- ✅ Reentrancy-aware Smart Contract Architecture
-
----
-
-# 🧪 Smart Contract Testing
-
-Hardhat test suite includes:
-
-- Token Deployment Testing
-- ERC20 Transfer Testing
-- Liquidity Addition Testing
-- Swap Transaction Testing
-
-Run tests locally:
-
-```bash
-npx hardhat test
-```
-
----
-
-# ⚙️ Local Development Setup
-
-## Clone Repository
-
-```bash
-git clone https://github.com/nivas2104-hue/nexus-dex.git
-```
-
----
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-## Run Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## Run Smart Contract Tests
-
-```bash
-npx hardhat test
-```
-
----
-
-# 🌐 SecureChain AI Mainnet
-
-| Property | Value |
+| Layer | Technology |
 |---|---|
-| Network | SecureChain AI Mainnet |
-| Chain ID | 34 |
-| RPC URL | https://mainnet-rpc.securechain.ai |
+| 🎨 Frontend | React.js + Vite + Tailwind CSS + Framer Motion |
+| ⛓️ Blockchain | Solidity + Hardhat + OpenZeppelin |
+| 🔌 Web3 | Ethers.js + MetaMask |
+| 🚀 Deployment | Vercel + GitHub |
+
+<br/>
 
 ---
 
-# 🎯 Project Highlights
+## ✨ &nbsp;Core Features
 
-✅ Fully Functional Web3 DApp  
-✅ Real Blockchain Transactions  
-✅ Live Mainnet Deployment  
-✅ Production Frontend Hosting  
-✅ Smart Contract Testing  
-✅ Liquidity Pool Integration  
-✅ MetaMask Wallet Support  
-✅ Responsive Cinematic UI  
+<br/>
+
+### 🔄 &nbsp;Token Swapping
+> Swap **SCAI ↔ NXS** tokens directly through MetaMask with live blockchain transaction execution.
+
+<br/>
+
+### 💧 &nbsp;Liquidity Pool System
+> Add liquidity into the Nexus liquidity pool and interact with real smart contract liquidity functions on-chain.
+
+<br/>
+
+### 🦊 &nbsp;Wallet Integration
+> - MetaMask Connection
+> - Wallet-based Authentication
+> - Real Transaction Signing
+> - Live Blockchain Interaction
+
+<br/>
+
+### 📊 &nbsp;Live Dashboard Analytics
+> - Portfolio tracking
+> - Liquidity insights
+> - Protocol health metrics
+> - Transaction history
+> - Live market visualization
+
+<br/>
 
 ---
 
-# 👨‍💻 Author
-
-## Nivas
-
-Built for the **EtherAuthority Web3 Internship Program 2026**
-
----
+## 🚀 &nbsp;Live Deployment
 
 <div align="center">
 
-# ⚡ Built on SecureChain AI Mainnet ⚡
+| Resource | Link |
+|:---:|:---:|
+| 🌐 **Frontend** | [nexus-dex-sigma.vercel.app](https://nexus-dex-sigma.vercel.app) |
+| 📂 **GitHub Repository** | [github.com/nivas2104-hue/nexus-dex](https://github.com/nivas2104-hue/nexus-dex) |
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 &nbsp;Smart Contracts
+
+<div align="center">
+
+### 🪙 &nbsp;NXS Token Contract
+
+```
+0xb636D73a75c5617FeCF034F028CbC5c597107586
+```
+
+### 🔁 &nbsp;NexusSwap Contract
+
+```
+0xcbCC2968592A9283168B80ECEA311962b7101fFC
+```
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+|  | Frontend | Blockchain | Deployment |
+|:---:|:---|:---|:---|
+| **Tools** | React.js · Vite · Tailwind CSS · Framer Motion · Ethers.js | Solidity · Hardhat · OpenZeppelin · SecureChain AI Mainnet | Vercel · GitHub |
+
+</div>
+
+<br/>
+
+---
+
+## 📸 &nbsp;Application Screenshots
+
+<br/>
+
+### 🏠 &nbsp;Homepage
+
+<div align="center">
+<img src="./screenshots/homepage1.png" width="85%"/>
+<br/><br/>
+<img src="./screenshots/homepage2.png" width="85%"/>
+</div>
+
+<br/>
+
+### 🔄 &nbsp;Swap Interface
+
+<div align="center">
+<img src="./screenshots/swap.png" width="85%"/>
+</div>
+
+<br/>
+
+### 💧 &nbsp;Liquidity Management
+
+<div align="center">
+<img src="./screenshots/liquidity.png" width="85%"/>
+</div>
+
+<br/>
+
+### 📊 &nbsp;Dashboard Analytics
+
+<div align="center">
+<img src="./screenshots/dashboard1.png" width="85%"/>
+<br/><br/>
+<img src="./screenshots/dashboard2.png" width="85%"/>
+</div>
+
+<br/>
+
+---
+
+## 🔒 &nbsp;Security Considerations
+
+The project implements multiple security-focused blockchain practices:
+
+| Practice | Status |
+|---|:---:|
+| OpenZeppelin ERC20 Standards | ✅ |
+| Solidity ^0.8 Overflow Protection | ✅ |
+| Secure ERC20 Allowance Handling | ✅ |
+| MetaMask Transaction Signing | ✅ |
+| Wallet-based Authorization | ✅ |
+| Reentrancy-aware Smart Contract Architecture | ✅ |
+
+<br/>
+
+---
+
+## 🧪 &nbsp;Smart Contract Testing
+
+Hardhat test suite includes:
+
+- `Token Deployment Testing`
+- `ERC20 Transfer Testing`
+- `Liquidity Addition Testing`
+- `Swap Transaction Testing`
+
+```bash
+npx hardhat test
+```
+
+<br/>
+
+---
+
+## ⚙️ &nbsp;Local Development Setup
+
+```bash
+# 1 · Clone the repository
+git clone https://github.com/nivas2104-hue/nexus-dex.git
+
+# 2 · Install dependencies
+npm install
+
+# 3 · Run development server
+npm run dev
+
+# 4 · Run smart contract tests
+npx hardhat test
+```
+
+<br/>
+
+---
+
+## 🌐 &nbsp;SecureChain AI Mainnet
+
+<div align="center">
+
+| Property | Value |
+|:---|:---|
+| **Network** | SecureChain AI Mainnet |
+| **Chain ID** | `34` |
+| **RPC URL** | `https://mainnet-rpc.securechain.ai` |
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 &nbsp;Project Highlights
+
+<div align="center">
+
+```
+✅ Fully Functional Web3 DApp       ✅ Real Blockchain Transactions
+✅ Live Mainnet Deployment          ✅ Production Frontend Hosting
+✅ Smart Contract Testing           ✅ Liquidity Pool Integration
+✅ MetaMask Wallet Support          ✅ Responsive Cinematic UI
+```
+
+</div>
+
+<br/>
+
+---
+
+## 👨‍💻 &nbsp;Author
+
+<div align="center">
+
+### Nivas
+
+*Built for the **EtherAuthority Web3 Internship Program 2026***
+
+<br/>
+
+---
+
+```
+⚡ ─────────────── BUILT ON SECURECHAIN AI MAINNET ─────────────── ⚡
+```
 
 </div>
