@@ -11,11 +11,10 @@
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### ⚡ Next-Generation Decentralized Exchange · SecureChain AI Mainnet ⚡
-
+── 𝙽𝙴𝚇𝚃-𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙸𝙾𝙽 𝙳𝙴𝚇 · 𝚂𝙴𝙲𝚄𝚁𝙴𝙲𝙷𝙰𝙸𝙽 𝙰𝙸 𝙼𝙰𝙸𝙽𝙽𝙴𝚃 ──
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Nexus%20DEX-8b5cf6?style=for-the-badge&labelColor=0f0f1a)](https://nexus-dex-sigma.vercel.app)&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Nexus%20DEX-8b5cf6?style=for-the-badge&labelColor=0f0f1a)](https://nexus-dex-sigma.vercel.app)&nbsp;&nbsp;
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.28-64748b?style=for-the-badge&logo=solidity&labelColor=0f0f1a)](https://soliditylang.org/)&nbsp;&nbsp;
 [![React](https://img.shields.io/badge/React-Frontend-0ea5e9?style=for-the-badge&logo=react&labelColor=0f0f1a)](https://react.dev/)&nbsp;&nbsp;
 [![Hardhat](https://img.shields.io/badge/Hardhat-Web3-facc15?style=for-the-badge&labelColor=0f0f1a)](https://hardhat.org/)&nbsp;&nbsp;
@@ -31,7 +30,11 @@
 
 </div>
 
-## 🌌 &nbsp;Overview
+```
+╔══════════════════════════════════════╗
+║            // OVERVIEW               ║
+╚══════════════════════════════════════╝
+```
 
 > **Nexus DEX** is a fully functional decentralized exchange deployed on the **SecureChain AI (SCAI) Mainnet** — enabling real on-chain token swaps, liquidity provision, and smart contract interaction through a modern cinematic Web3 interface.
 
@@ -39,30 +42,40 @@ Built as a complete full-stack blockchain application using:
 
 | Layer | Technology |
 |---|---|
-| 🎨 Frontend | React.js + Vite + Tailwind CSS + Framer Motion |
-| ⛓️ Blockchain | Solidity + Hardhat + OpenZeppelin |
-| 🔌 Web3 | Ethers.js + MetaMask |
-| 🚀 Deployment | Vercel + GitHub |
+| `FRONTEND` | React.js + Vite + Tailwind CSS + Framer Motion |
+| `BLOCKCHAIN` | Solidity + Hardhat + OpenZeppelin |
+| `WEB3` | Ethers.js + MetaMask |
+| `DEPLOYMENT` | Vercel + GitHub |
 
 <br/>
 
 ---
 
-## ✨ &nbsp;Core Features
+```
+╔══════════════════════════════════════╗
+║          // CORE FEATURES            ║
+╚══════════════════════════════════════╝
+```
 
 <br/>
 
-### 🔄 &nbsp;Token Swapping
+```
+ ░▒▓  TOKEN SWAPPING  ▓▒░
+```
 > Swap **SCAI ↔ NXS** tokens directly through MetaMask with live blockchain transaction execution.
 
 <br/>
 
-### 💧 &nbsp;Liquidity Pool System
+```
+ ░▒▓  LIQUIDITY POOL SYSTEM  ▓▒░
+```
 > Add liquidity into the Nexus liquidity pool and interact with real smart contract liquidity functions on-chain.
 
 <br/>
 
-### 🦊 &nbsp;Wallet Integration
+```
+ ░▒▓  WALLET INTEGRATION  ▓▒░
+```
 > - MetaMask Connection
 > - Wallet-based Authentication
 > - Real Transaction Signing
@@ -70,7 +83,9 @@ Built as a complete full-stack blockchain application using:
 
 <br/>
 
-### 📊 &nbsp;Live Dashboard Analytics
+```
+ ░▒▓  LIVE DASHBOARD ANALYTICS  ▓▒░
+```
 > - Portfolio tracking
 > - Liquidity insights
 > - Protocol health metrics
@@ -81,14 +96,18 @@ Built as a complete full-stack blockchain application using:
 
 ---
 
-## 🚀 &nbsp;Live Deployment
+```
+╔══════════════════════════════════════╗
+║          // LIVE DEPLOYMENT          ║
+╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
 | Resource | Link |
 |:---:|:---:|
-| 🌐 **Frontend** | [nexus-dex-sigma.vercel.app](https://nexus-dex-sigma.vercel.app) |
-| 📂 **GitHub Repository** | [github.com/nivas2104-hue/nexus-dex](https://github.com/nivas2104-hue/nexus-dex) |
+| `FRONTEND` | [nexus-dex-sigma.vercel.app](https://nexus-dex-sigma.vercel.app) |
+| `REPOSITORY` | [github.com/nivas2104-hue/nexus-dex](https://github.com/nivas2104-hue/nexus-dex) |
 
 </div>
 
@@ -96,19 +115,21 @@ Built as a complete full-stack blockchain application using:
 
 ---
 
-## 🧠 &nbsp;Smart Contracts
+```
+╔══════════════════════════════════════╗
+║          // SMART CONTRACTS          ║
+╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
-### 🪙 &nbsp;NXS Token Contract
-
 ```
+[ NXS TOKEN CONTRACT ]
 0xb636D73a75c5617FeCF034F028CbC5c597107586
 ```
 
-### 🔁 &nbsp;NexusSwap Contract
-
 ```
+[ NEXUSSWAP CONTRACT ]
 0xcbCC2968592A9283168B80ECEA311962b7101fFC
 ```
 
@@ -118,11 +139,15 @@ Built as a complete full-stack blockchain application using:
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+```
+╔══════════════════════════════════════╗
+║            // TECH STACK             ║
+╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
-|  | Frontend | Blockchain | Deployment |
+| | `FRONTEND` | `BLOCKCHAIN` | `DEPLOYMENT` |
 |:---:|:---|:---|:---|
 | **Tools** | React.js · Vite · Tailwind CSS · Framer Motion · Ethers.js | Solidity · Hardhat · OpenZeppelin · SecureChain AI Mainnet | Vercel · GitHub |
 
@@ -132,11 +157,17 @@ Built as a complete full-stack blockchain application using:
 
 ---
 
-## 📸 &nbsp;Application Screenshots
+```
+╔══════════════════════════════════════╗
+║        // APPLICATION SCREENSHOTS    ║
+╚══════════════════════════════════════╝
+```
 
 <br/>
 
-### 🏠 &nbsp;Homepage
+```
+ ─────── HOMEPAGE ───────
+```
 
 <div align="center">
 <img src="./screenshots/homepage1.png" width="85%"/>
@@ -146,7 +177,9 @@ Built as a complete full-stack blockchain application using:
 
 <br/>
 
-### 🔄 &nbsp;Swap Interface
+```
+ ─────── SWAP INTERFACE ───────
+```
 
 <div align="center">
 <img src="./screenshots/swap.png" width="85%"/>
@@ -154,7 +187,9 @@ Built as a complete full-stack blockchain application using:
 
 <br/>
 
-### 💧 &nbsp;Liquidity Management
+```
+ ─────── LIQUIDITY MANAGEMENT ───────
+```
 
 <div align="center">
 <img src="./screenshots/liquidity.png" width="85%"/>
@@ -162,7 +197,9 @@ Built as a complete full-stack blockchain application using:
 
 <br/>
 
-### 📊 &nbsp;Dashboard Analytics
+```
+ ─────── DASHBOARD ANALYTICS ───────
+```
 
 <div align="center">
 <img src="./screenshots/dashboard1.png" width="85%"/>
@@ -174,24 +211,32 @@ Built as a complete full-stack blockchain application using:
 
 ---
 
-## 🔒 &nbsp;Security Considerations
+```
+╔══════════════════════════════════════╗
+║       // SECURITY CONSIDERATIONS     ║
+╚══════════════════════════════════════╝
+```
 
 The project implements multiple security-focused blockchain practices:
 
 | Practice | Status |
 |---|:---:|
-| OpenZeppelin ERC20 Standards | ✅ |
-| Solidity ^0.8 Overflow Protection | ✅ |
-| Secure ERC20 Allowance Handling | ✅ |
-| MetaMask Transaction Signing | ✅ |
-| Wallet-based Authorization | ✅ |
-| Reentrancy-aware Smart Contract Architecture | ✅ |
+| OpenZeppelin ERC20 Standards | `[PASS]` |
+| Solidity ^0.8 Overflow Protection | `[PASS]` |
+| Secure ERC20 Allowance Handling | `[PASS]` |
+| MetaMask Transaction Signing | `[PASS]` |
+| Wallet-based Authorization | `[PASS]` |
+| Reentrancy-aware Smart Contract Architecture | `[PASS]` |
 
 <br/>
 
 ---
 
-## 🧪 &nbsp;Smart Contract Testing
+```
+╔══════════════════════════════════════╗
+║       // SMART CONTRACT TESTING      ║
+╚══════════════════════════════════════╝
+```
 
 Hardhat test suite includes:
 
@@ -208,7 +253,11 @@ npx hardhat test
 
 ---
 
-## ⚙️ &nbsp;Local Development Setup
+```
+╔══════════════════════════════════════╗
+║       // LOCAL DEVELOPMENT SETUP     ║
+╚══════════════════════════════════════╝
+```
 
 ```bash
 # 1 · Clone the repository
@@ -228,7 +277,11 @@ npx hardhat test
 
 ---
 
-## 🌐 &nbsp;SecureChain AI Mainnet
+```
+╔══════════════════════════════════════╗
+║       // SECURECHAIN AI MAINNET      ║
+╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
@@ -244,15 +297,19 @@ npx hardhat test
 
 ---
 
-## 🎯 &nbsp;Project Highlights
+```
+╔══════════════════════════════════════╗
+║         // PROJECT HIGHLIGHTS        ║
+╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
 ```
-✅ Fully Functional Web3 DApp       ✅ Real Blockchain Transactions
-✅ Live Mainnet Deployment          ✅ Production Frontend Hosting
-✅ Smart Contract Testing           ✅ Liquidity Pool Integration
-✅ MetaMask Wallet Support          ✅ Responsive Cinematic UI
+[+] Fully Functional Web3 DApp       [+] Real Blockchain Transactions
+[+] Live Mainnet Deployment          [+] Production Frontend Hosting
+[+] Smart Contract Testing           [+] Liquidity Pool Integration
+[+] MetaMask Wallet Support          [+] Responsive Cinematic UI
 ```
 
 </div>
@@ -261,7 +318,11 @@ npx hardhat test
 
 ---
 
-## 👨‍💻 &nbsp;Author
+```
+╔══════════════════════════════════════╗
+║              // DEVELOPER            ║
+╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
