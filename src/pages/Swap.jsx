@@ -46,7 +46,7 @@ export default function Swap() {
       setTxStatus("pending");
 
       await tx.wait();
-
+      window.location.reload();
       const existing = JSON.parse(localStorage.getItem("nexusTxs") || "[]");
 
       existing.unshift({

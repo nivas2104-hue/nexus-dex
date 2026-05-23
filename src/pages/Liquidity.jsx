@@ -40,11 +40,34 @@ export default function Liquidity() {
 
       const signer = provider.getSigner();
 
+      const address = await signer.getAddress();
+
       // TOKEN CONTRACT
       const token = new ethers.Contract(TOKEN_ADDRESS, TOKEN_ABI, signer);
 
       // SWAP CONTRACT
       const swap = new ethers.Contract(SWAP_ADDRESS, SWAP_ABI, signer);
+
+      // USER SCAI BALANCE
+      const scaiBalance = await provider.getBalance(address);
+
+      const formattedScai = Number(ethers.utils.formatEther(scaiBalance));
+
+      // USER NXS BALANCE
+      const tokenBalance = await token.balanceOf(address);
+
+      const formattedNxs = Number(ethers.utils.formatUnits(tokenBalance, 18));
+
+      // VALIDATIONS
+      if (formattedScai <= Number(ethAmount)) {
+        alert("Leave some SCAI for gas fees");
+        return;
+      }
+
+      if (formattedNxs < Number(nxsAmount)) {
+        alert("Insufficient NXS balance");
+        return;
+      }
 
       // APPROVE TOKENS
       const approveTx = await token.approve(
@@ -57,7 +80,9 @@ export default function Liquidity() {
       setTxStatus("pending");
 
       await approveTx.wait();
+
       await new Promise((resolve) => setTimeout(resolve, 1500));
+
       // ADD LIQUIDITY
       const liquidityTx = await swap.addLiquidity(
         ethers.utils.parseUnits(nxsAmount, 18),
@@ -86,7 +111,7 @@ export default function Liquidity() {
 
       setTimeout(() => {
         window.location.reload();
-      }, 2500);
+      }, 1500);
     } catch (err) {
       console.error(err);
 

@@ -59,13 +59,12 @@ export default function Dashboard() {
 
         setPoolETH(eth.toFixed(2));
 
-        setPoolNXS(nxs.toLocaleString());
-
+        setPoolNXS(nxs > 0 ? nxs.toLocaleString() : "0");
         const tvl = eth * ethPrice;
 
         setRealTVL(tvl.toLocaleString());
 
-        const tokenPrice = (eth * ethPrice) / nxs;
+        const tokenPrice = nxs > 0 ? (eth * ethPrice) / nxs : 0;
 
         setRealNXSPrice(tokenPrice.toFixed(2));
       } catch (err) {
@@ -95,8 +94,7 @@ export default function Dashboard() {
 
         const rawETH = Number(formattedETH);
 
-        const realisticETH = rawETH > 20 ? 9.84 : rawETH;
-
+        const realisticETH = rawETH;
         setEthBalance(realisticETH.toFixed(2));
 
         // TOKEN
@@ -110,7 +108,9 @@ export default function Dashboard() {
 
         setNxsBalance(rawNXS.toLocaleString());
 
-        const totalValue = realisticETH * ethPrice + rawNXS * nxsPrice;
+        const safePrice = Number(nxsPrice) || 0;
+
+        const totalValue = realisticETH * ethPrice + rawNXS * safePrice;
         setPortfolioValue(
           totalValue.toLocaleString(undefined, {
             maximumFractionDigits: 2,
@@ -168,6 +168,7 @@ export default function Dashboard() {
       );
 
       await tx.wait();
+      window.location.reload();
 
       const existing = JSON.parse(localStorage.getItem("nexusTxs") || "[]");
 
@@ -220,13 +221,9 @@ export default function Dashboard() {
 
     {
       name: "SCAI",
-
       symbol: "SCAI",
-
-      balance: "4,200",
-
-      value: "$5,120",
-
+      balance: ethBalance,
+      value: `$${(Number(ethBalance) * ethPrice).toLocaleString()}`,
       change: "+4.1%",
     },
   ];
