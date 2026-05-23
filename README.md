@@ -137,11 +137,11 @@ Developed as a complete decentralized finance application powered by Solidity sm
 ```
 
 <div align="center">
-
 | Resource | Link |
-|:---:|:---:|
-| `FRONTEND` | [nexus-dex-sigma.vercel.app](https://nexus-dex-sigma.vercel.app) |
-| `REPOSITORY` | [github.com/nivas2104-hue/nexus-dex](https://github.com/nivas2104-hue/nexus-dex) |
+|----------|------|
+| `Live Application` | https://nexus-dex-sigma.vercel.app |
+| `GitHub Repository` | https://github.com/nivas2104-hue/nexus-dex |
+| `Technical Blog` | https://nivasweb3.hashnode.dev/nexus-dex |
 
 </div>
 
@@ -467,6 +467,20 @@ PROJECT STATUS:
 #  ─────── LIVE ON SECURECHAIN AI MAINNET  ───────
 
 </div>
+╔══════════════════════════════════════╗
+║         // TECHNICAL ARTICLE         ║
+╚══════════════════════════════════════╝
+
+Detailed engineering breakdown covering:
+- smart contract architecture
+- wallet integration
+- deployment flow
+- runtime debugging
+- liquidity handling
+- Vercel production fixes
+
+READ ARTICLE:
+https://nivasweb3.hashnode.dev/nexus-dex
 
 ```
 ╔══════════════════════════════════════╗
