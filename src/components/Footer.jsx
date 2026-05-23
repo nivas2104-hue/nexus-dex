@@ -21,6 +21,9 @@ export default function Footer() {
         {/* RIGHT */}
         <div className="text-zinc-500 text-sm">
           Powered by SecureChain • 2026
+          <p className="text-zinc-500 text-sm">
+            Developed during EtherAuthority Blockchain Internship Program
+          </p>
         </div>
       </div>
     </footer>

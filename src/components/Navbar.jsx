@@ -39,6 +39,9 @@ export default function Navbar() {
           className="text-3xl font-black tracking-wider text-cyan-300 drop-shadow-[0_0_15px_rgba(34,211,238,0.8)]"
         >
           NEXUS DEX
+          <p className="text-[10px] tracking-[0.25em] text-zinc-500 uppercase">
+            Powered by EtherAuthority
+          </p>
         </Link>
 
         {/* Nav Links */}
