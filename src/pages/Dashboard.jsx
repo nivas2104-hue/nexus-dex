@@ -453,13 +453,11 @@ export default function Dashboard() {
                   Recent Activity
                 </p>
 
-                <button
-                  onClick={sendTokens}
-                  className="w-full py-4 rounded-2xl bg-cyan-300 text-black font-bold hover:scale-[1.02] transition-all duration-300 mb-6"
-                >
-                  Send 100 NXS
-                </button>
-
+                <div className="w-full py-5 rounded-3xl bg-cyan-400/20 border border-cyan-300/20 text-center">
+                  <p className="text-cyan-200 text-lg font-black">
+                    Multi-User Liquidity Sync Active
+                  </p>
+                </div>
                 <div className="space-y-5">
                   {transactions.map((tx, index) => (
                     <div
